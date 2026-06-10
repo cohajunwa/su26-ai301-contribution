@@ -1,4 +1,4 @@
-# Contribution [#]: Normalize instructor names
+# Contribution 1: Normalize instructor names
 
 **Contribution Number:** 1
 **Student:** Comfort Ohajunwa
@@ -8,8 +8,6 @@
 ---
 
 ## Why I Chose This Issue
-
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
 
 I chose this issue because it appears straightforward, but useful for students using the website. I also thought it could be an interesting challenging considering I'm less familiar with the coding languages. I hope to familiarize myself more with TypeScript and Rust, while hopefully making a meaningful contribution.
 
