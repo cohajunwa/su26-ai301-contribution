@@ -1,15 +1,17 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: Normalize instructor names
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1
+**Student:** Comfort Ohajunwa
+**Issue:** https://github.com/mcgill-courses/mcgill.courses/issues/776 
+**Status:** Phase I Complete
 
 ---
 
 ## Why I Chose This Issue
 
 [1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+
+I chose this issue because it appears straightforward, but useful for students using the website. I also thought it could be an interesting challenging considering I'm less familiar with the coding languages. I hope to familiarize myself more with TypeScript and Rust, while hopefully making a meaningful contribution.
 
 ---
 
