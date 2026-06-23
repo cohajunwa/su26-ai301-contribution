@@ -3,7 +3,7 @@
 **Contribution Number:** 1
 **Student:** Comfort Ohajunwa
 **Issue:** https://github.com/mcgill-courses/mcgill.courses/issues/776 
-**Status:** Phase 2 Complete
+**Status:** Phase 3 In-Progress
 
 ---
 
@@ -134,9 +134,9 @@ However, this approach will not be effective for normalizing instructor names gi
 
 ## Implementation Notes
 
-### Week [X] Progress
+### Week 3 Progress
 
-[What you built this week, challenges faced, decisions made]
+This past week, I created a function `instructorNameToUrlParam` that converts an instructor's name to a slug, and wrote test cases.
 
 ### Week [Y] Progress
 
